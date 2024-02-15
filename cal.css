@@ -1,0 +1,50 @@
+button{
+   width: 45px;
+   border-radius: 20px;
+   background-color:bisque;
+   border-color: black;
+}
+
+#TextField{
+    width: 200px;
+    border-color: black;
+    border-radius: 20px;
+    height: 30px;
+}
+
+#btn0{
+    width: 95px;
+    text-align: left;
+}
+body{
+    align-content: center;
+}
+div{
+    border: 4px;
+    background-color: white;
+    border-color: black;
+    border-style:inset;
+    width: 210px;
+    height: 300px;
+    border-radius: 20px;
+}
+.btn{
+    height: 40px;
+}
+p{
+    text-align: center;
+    margin-bottom: 1px;
+}
+#Cal:hover{
+    background-color: blueviolet;
+    p{
+        color: aliceblue;
+        
+        font-display:inherit;
+    }
+    
+}
+.btn:hover{
+    background-color: black;
+    color: antiquewhite;   
+}
